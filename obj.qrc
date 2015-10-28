@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Obj/Lps.lxo</file>
+        <file>Obj/Lps.mtl</file>
+        <file>Obj/Lps.obj</file>
+    </qresource>
+</RCC>
